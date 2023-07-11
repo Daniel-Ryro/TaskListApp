@@ -39,4 +39,3 @@ Copy code
 flutter run
 The Task List App should now be up and running on your device or emulator.
 
-Contributing
